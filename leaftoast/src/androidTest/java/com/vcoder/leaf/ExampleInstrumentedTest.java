@@ -1,4 +1,4 @@
-package com.vcoder.leaftoast;
+package com.vcoder.leaf;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.vcoder.leaftoast.test", appContext.getPackageName());
+        assertEquals("com.vcoder.leaf.test", appContext.getPackageName());
     }
 }

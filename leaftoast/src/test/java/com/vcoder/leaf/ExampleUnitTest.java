@@ -1,4 +1,4 @@
-package com.vcoder.leaftoast;
+package com.vcoder.leaf;
 
 import org.junit.Test;
 
